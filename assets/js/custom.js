@@ -536,7 +536,9 @@ $(document).ready(function() {
     /*----------------------------
         18. Preloader
     ------------------------------ */
+/*
     $(window).load(function() {
         $('.preloader').fadeOut(2000);
     });
 });
+*/
