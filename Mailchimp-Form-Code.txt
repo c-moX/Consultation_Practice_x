@@ -1,0 +1,58 @@
+#CONTACT FORM 7
+---------------
+---------------------
+<div class="col-md-12 col-sm-12">
+    <div class="form-group">
+         [text* Name class:form-control placeholder "Name*"]
+    </div>
+</div>
+
+<div class="col-md-6 col-sm-6">
+     <div class="form-group">
+         [email* Email class:form-control placeholder "E-mail*"]
+     </div>
+</div>
+
+<div class="col-md-6 col-sm-6">
+    <div class="form-group">
+        [url* Website class:form-control placeholder "Website"]
+    </div>
+</div>
+
+<div class="col-md-12 col-sm-12">
+    <div class="form-group">
+        [tel* Phone class:form-control placeholder "Phone*"]
+    </div>
+</div>
+
+<div class="col-md-12">
+    <div class="form-group">
+        [textarea* Textarea class:form-control placeholder "Your Comments . . ."]
+    </div>
+</div>
+
+<div class="col-md-12">
+    <div class="form-group">
+        <div class="send_me_ph">
+            [submit class:submit-btn_ph "Send"]
+        </div>
+    </div>
+</div>
+
+
+
+
+#MAILCHIMP
+------------
+----------------
+<div class="thelj">
+    <p>
+        <input type="email" name="EMAIL" required="" class="submit_cupon">
+    </p>
+    <div class="send_btn_cupon">
+        <p>
+            <input type="submit" value="SUBSCRIBE" class="submit_cupon_submit">
+        </p>
+    </div>
+</div>
+
