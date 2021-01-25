@@ -1,9 +1,0 @@
-User:-  ThemexTheme
-
-(1)Customer Key:-  6wghfFSfOpnbzMitBsaKsqbeS
-
-(2)Consumer Secret:-  PjskFfB2UA8eLj3qJM1CFTnkCMsssm8KFNgD2RxbeZvyld5omq
-
-(3)Access Token:-  907168190639235072-VgGSQsVYNVjGuisAI2crFy2ZO0xvmOM
-
-(4)Access Token Secret:-  b5YpJNLULiupFqwmzlKMWL2FrZUWf7Okcshaey8ktgYWJ
